@@ -1,0 +1,40 @@
+@mixin  scndblkH6 {
+
+    color: #676767;
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin-bottom: 0;
+    
+}
+@mixin  scndblkH2 {
+    color: #001a53;
+    font-weight: 500;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+@mixin  scndblkH4 {
+
+    color: #001a53;
+    font-weight: 700;
+    font-size: 1.2rem;
+    
+}
+
+@mixin  scndblkP {
+    color: #676767c2;
+    font-weight: 500;
+    
+}
+
+@mixin vimoremix {
+    padding-left: 1.5rem;
+            padding-right: 1.45rem;
+            background: #f8811d;
+            border-color: #f8811d;
+            color: white;
+            font-size: 14px;
+            font-weight: 600;
+}
+
+
+

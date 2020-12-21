@@ -1,0 +1,377 @@
+
+@media(min-width: 1680px)
+{
+    .absolte_Nav{
+        .main_logo {
+            width: 88%;
+        }
+
+        a.nav-link {
+            font-size: 15px;
+        }
+        
+
+    }
+
+    .predefined{font-size: 16px;}
+
+    .psg_on_Banner {font-size: 19px;}
+
+    .viewmorebtn {font-size: 19px!important}
+
+    h6{
+        font-size: 1.4rem!important;
+    }
+
+    h2{
+        font-size: 3.3rem!important;
+    }
+
+    h4{
+        font-size: 1.5rem!important;
+    }
+
+    p{font-size: 19px;}
+
+    .scdHeadbanner {
+        .services {
+            width: 917px;
+         
+        }
+    }
+
+
+    .newAddMargn {
+        margin-top: 17rem }
+    
+        .happyClients .flex_Crousal img {
+            min-height: 321px;
+            max-width: 321px;
+        }
+
+        .happyClients .carousel-indicators {
+           
+            right: 17.3rem;}
+
+            .get_In_Touch .flexonIcon a {
+                font-size: 1.8rem;}
+
+                .footerContainer .footerAbsoulte .nav-link {
+                    font-size: 19px;}
+
+                    .footerContainer .footerAbsoulte img {
+                        width: 17%;
+                    }
+
+                    .footerContainer .footerAbsoulte p {
+                        font-size: 19px;}
+
+                        .footerContainer .footerAbsoulte {
+                            top: 18%;}
+
+                            .relativeContainer .absoluteContainer {
+                                left: 17%;
+                                right: 17%;}
+   
+}
+
+@media(min-width:1920px)
+{
+    .relativeContainer .absoluteContainer {
+        left: 21%;
+        right: 21%;
+    }
+}
+
+@media(max-width:1440px)
+{
+    .relativeContainer .absoluteContainer {
+       
+    left: 12%;
+    right: 12%;
+
+    }
+}
+
+@media (max-width:1366px)
+{
+    .relativeContainer .absoluteContainer {
+        left: 10%;
+        right: 10%;
+    }
+}
+@media(width:1366px)
+{
+    .footerContainer {
+        min-height: 292px;}
+}
+
+@media (max-width:1280px)
+{
+    .relativeContainer .absoluteContainer {
+        left: 7%;
+        right: 7%;
+    }
+}
+
+@media(width:1280px)
+{
+    .footerContainer {
+        min-height: 275px;}
+}
+
+@media(max-width:1024px)
+{
+    .scdHeadbanner .services {
+        left: auto;
+        right: 0;
+    }
+
+    .footerContainer .footerAbsoulte .nav-link {
+        margin-left: 0rem;
+    }
+
+    .footerContainer .footerAbsoulte {
+        top: 43%;
+    }
+
+}
+@media(width:1024px)
+{
+    .footerContainer {
+        min-height: 218px;}
+
+        .footerContainer .footerAbsoulte {
+            top: 22%;
+        }
+}
+@media(max-width:768px)
+{
+    div{
+        overflow: scroll;
+    }
+
+    ul.navbar-nav.ml-auto {
+        background: #f2f2f2;
+        border-radius: 12px;
+        width: max-content;
+        margin: 0;
+    }
+
+    .absolte_Nav {
+        position: absolute;
+        top: 0;
+        z-index: 99;
+        left: 0;
+        right: 0;
+    }
+
+    .absolte_Nav{
+        a.nav-link {
+            margin-left: 1rem;
+            color: black !important;
+            
+            margin-right: 1rem;
+        }
+
+        
+    }
+
+    .navbar-toggler {
+        background: #e9852d;
+    }
+
+    .rowadon {
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        display: flex;
+        flex-wrap: nowrap;
+    }
+
+    .scdHeadbanner .services {
+        width: 730px;
+        padding: 1.5em;
+    }
+
+    p{
+        br{
+            display: none;
+        }
+    }
+
+.projecSec{
+    .carousel {
+        padding-bottom: 2rem;
+    }
+
+    .row{
+        margin: 0;
+    }
+     
+}
+.projecSec .carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.relativeContainer .homourSec {
+    height: 676px;}
+
+    .newAddMargn {
+        margin-top: 2rem;
+    }
+
+    .newAddMargn .col-md-4:hover .overlay {
+        height: 12%;
+    }
+
+    .happyClients .flex_Crousal{
+        img{
+            display: none;
+        }
+    }
+
+    .happyClients .carousel-indicators {
+        position: absolute;
+        right: auto;
+        bottom: 0rem;
+        left:42px;
+        margin: 0;
+    }
+
+    .counter .col_fourth {
+        width:22%;
+    }
+
+    .footerContainer {
+        min-height: 225px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        position: relative;
+    }
+
+    .footerContainer .footerAbsoulte {
+        top: 22%;
+    }
+
+    .get_In_Touch .flexonIcon a {
+        margin: 0 6px;}
+
+        .counter .wrapper {
+            width: auto;}
+    
+
+}
+
+@media(max-width:414px)
+{
+    .typewriter {
+        overflow: scroll;
+        white-space: inherit;}
+
+        .bannerHeadDiv{
+            position: absolute;
+            top: 32%;
+            left: 0;
+            margin-left: 0;
+            text-align: center;
+            right: 0;
+        }
+
+        .dev_Oppt {
+            color: white;
+            font-weight: 600;
+            font-size: 2rem;
+            br{
+                display: none;
+            }
+        }
+
+        .scdHeadbanner .services {
+            width: 100%;
+            padding: 1.5em;
+        }
+
+        .rowadon {
+            
+            flex-wrap: wrap;
+        }
+
+        .scdHeadbanner {
+           height: unset;
+        overflow: hidden;}
+
+        .scdHeadbanner .services {
+            top: 0;
+            padding: 3em;
+            position: relative;}
+
+            .listflex  div {
+                overflow: hidden;
+            }
+
+            .relativeContainer {
+                overflow: hidden;
+                .homourSec {
+                height: 71rem;
+                
+            }
+        }
+
+        .quoteDiv .flex_Div {
+            flex-direction: column;
+        }
+
+        .quoteDiv .flex_Div div {
+            margin: 2rem 2rem;
+        }
+
+        .counter .col_fourth {
+            width: 100%;
+        }
+
+        .get_In_Touch{
+            input{
+                margin-top: 1.5rem;
+            }
+        }
+
+        .get_In_Touch .AddressLine {
+            display: none;
+        }
+
+        .get_In_Touch .flexonIcon {
+            display: none;
+        }
+
+        .footerContainer .footerAbsoulte .footerFlex {
+            flex-wrap: wrap;
+        }
+
+        .footerContainer .footerAbsoulte img {
+            width: 50%;
+        }
+
+        .footerContainer {
+            min-height: 489px;}
+
+        
+        
+}
+
+@media(max-width:384px)
+{
+    button.navbar-toggler {
+        position: absolute;
+        right: 6px;
+        top: 4px;
+    }
+}
+
+@media (max-width: 360px)
+{.relativeContainer .homourSec {
+    height: 76rem;
+}}
